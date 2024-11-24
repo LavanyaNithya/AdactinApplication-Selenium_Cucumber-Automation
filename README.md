@@ -6,23 +6,23 @@ The Adactin Hotel Automation Project is a comprehensive test automation suite de
 
 1.User Authentication:
 
-     Testing login functionality with valid and invalid credentials.
+Testing login functionality with valid and invalid credentials.
 
 2.Hotel Search:
 
-     Verifying search criteria, such as location, room type, and dates.
+Verifying search criteria, such as location, room type, and dates.
 
 3.Hotel Booking:
 
-     Automating room selection, personal details input, and booking confirmation.
+Automating room selection, personal details input, and booking confirmation.
 
 4.Order History:
 
-     Testing the order history feature for existing bookings.
+Testing the order history feature for existing bookings.
 
 5.Logout Functionality:
 
-     Ensuring secure session termination.
+Ensuring secure session termination.
 
 **Technologies Used**
 
@@ -42,19 +42,44 @@ Reporting: Cucumber HTML Reports,Extent Reports
 
 **Folder Structure**
 
-AdactinHotelAutomation/
+AdactinApplication-Automation/
 
-├── src/main/java        # Main application code (if applicable)
+├── src/
 
-├── src/test/java        # Test cases and step definitions
+│   ├── main/
 
-├── features             # Cucumber feature files
+│   │   └── java/
 
-├── test-output          # Generated test reports
+│   │       ├── Baseclass/           # Core utilities for setup and reusable methods
 
-├── pom.xml              # Maven configuration file
+│   │       ├── DataReader/          # Data-driven testing utilities
 
-└── README.md            # Project documentation
+│   │       ├── PageObjectManager/   # Singleton class for managing page objects
+
+│   │       ├── PageObjectModel/     # Page classes for encapsulating web elements
+
+│   │       ├── PropertyFile/        # Configuration file utilities
+
+│   ├── test/
+
+│       └── java/
+
+│           ├── Featurefile/         # Cucumber feature files
+
+│           ├── Hooks/               # Pre and post-test setup
+
+│           ├── Runner/              # Cucumber runner classes
+
+│           ├── StepDefinition/      # Step definitions for Cucumber scenarios
+
+├── HtmlReport/                       # Automatically generated HTML test reports
+
+├── test-output/                      # Cucumber Extent reports
+
+├── pom.xml                           # Maven dependencies and build configuration
+
+└── README.md                         # Project documentation
+
 
 **Setup and Execution**
 
