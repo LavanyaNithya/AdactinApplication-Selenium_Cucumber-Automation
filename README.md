@@ -46,31 +46,31 @@ AdactinApplication-Automation/
 
 ├── src/
 
-│   ├── main/
+│     ├── main/
 
-│   │   └── java/
+│     │   └── java/
 
-│   │       ├── Baseclass/           # Core utilities for setup and reusable methods
+│     │       ├── Baseclass/           # Core utilities for setup and reusable methods
 
-│   │       ├── DataReader/          # Data-driven testing utilities
+│     │       ├── DataReader/          # Data-driven testing utilities
 
-│   │       ├── PageObjectManager/   # Singleton class for managing page objects
+│     │       ├── PageObjectManager/   # Singleton class for managing page objects
 
-│   │       ├── PageObjectModel/     # Page classes for encapsulating web elements
+│     │       ├── PageObjectModel/     # Page classes for encapsulating web elements
 
-│   │       ├── PropertyFile/        # Configuration file utilities
+│     │       ├── PropertyFile/        # Configuration file utilities
 
-│   ├── test/
+│     ├── test/
 
-│       └── java/
+│         └── java/
 
-│           ├── Featurefile/         # Cucumber feature files
+│             ├── Featurefile/         # Cucumber feature files
 
-│           ├── Hooks/               # Pre and post-test setup
+│             ├── Hooks/               # Pre and post-test setup
 
-│           ├── Runner/              # Cucumber runner classes
+│             ├── Runner/              # Cucumber runner classes
 
-│           ├── StepDefinition/      # Step definitions for Cucumber scenarios
+│             ├── StepDefinition/      # Step definitions for Cucumber scenarios
 
 ├── HtmlReport/                       # Automatically generated HTML test reports
 
@@ -94,7 +94,7 @@ Pre-requisites
 
 Clone the repository using:
 
-   git clone https://github.com/your-username/adactin-hotel-automation.git
+   git clone https://github.com/LavanyaNithya/AdactinApplication-Selenium_Cucumber-Automation.git
 
 Steps to Execute:
 
