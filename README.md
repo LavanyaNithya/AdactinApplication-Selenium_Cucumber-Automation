@@ -4,25 +4,25 @@ The Adactin Hotel Automation Project is a comprehensive test automation suite de
 
 **Features Covered**
 
-User Authentication:
+1.User Authentication:
 
-Testing login functionality with valid and invalid credentials.
+     Testing login functionality with valid and invalid credentials.
 
-Hotel Search:
+2.Hotel Search:
 
-Verifying search criteria, such as location, room type, and dates.
+     Verifying search criteria, such as location, room type, and dates.
 
-Hotel Booking:
+3.Hotel Booking:
 
-Automating room selection, personal details input, and booking confirmation.
+     Automating room selection, personal details input, and booking confirmation.
 
-Order History:
+4.Order History:
 
-Testing the order history feature for existing bookings.
+     Testing the order history feature for existing bookings.
 
-Logout Functionality:
+5.Logout Functionality:
 
-Ensuring secure session termination.
+     Ensuring secure session termination.
 
 **Technologies Used**
 
@@ -60,16 +60,16 @@ AdactinHotelAutomation/
 
 Pre-requisites
 
-Install Java JDK 8+.
+1.Install Java JDK 8+.
 
-Install Maven.
+2.Install Maven.
 
-Install Eclipse IDE or IntelliJ IDEA.
+3.Install Eclipse IDE or IntelliJ IDEA.
 
 
 Clone the repository using:
 
-git clone https://github.com/your-username/adactin-hotel-automation.git
+   git clone https://github.com/your-username/adactin-hotel-automation.git
 
 Steps to Execute:
 
@@ -77,12 +77,10 @@ Steps to Execute:
 
 2.Download dependencies by running
 
-mvn clean install
+   mvn clean install
 
-Execute the tests using:
+3.Execute the tests using:
 
-For all tests:
-
-mvn test
+   mvn test
 
 
