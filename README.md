@@ -81,6 +81,16 @@ AdactinApplication-Automation/
 └── README.md                         # Project documentation
 
 
+**Report Screehsots**
+
+
+![Report1](Adactin screenshots/Adactin ss.png)
+
+
+
+
+
+
 **Setup and Execution**
 
 Pre-requisites
