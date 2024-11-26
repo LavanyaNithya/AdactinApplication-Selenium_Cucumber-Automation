@@ -85,7 +85,7 @@ AdactinApplication-Automation/
 
 # Report1
 
-![Adactin ss1](Adactin screenshots/Adactin ss1.PNG)
+![Adactin ss1](Adactin%20screenshots/Adactin%20ss1.PNG)
 
 
 
