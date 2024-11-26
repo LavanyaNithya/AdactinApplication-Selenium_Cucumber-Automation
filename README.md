@@ -81,11 +81,11 @@ AdactinApplication-Automation/
 └── README.md                         # Project documentation
 
 
-**Report Screehsots**
+**Report Screenshots**
 
-## Report1
+# Report1
 
-![ Report1 ](Adactin screenshots/Adactin ss1.PNG)
+![Adactin ss1](Adactin screenshots/Adactin ss1.PNG)
 
 
 
