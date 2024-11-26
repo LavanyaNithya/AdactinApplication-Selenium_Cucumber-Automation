@@ -83,13 +83,19 @@ AdactinApplication-Automation/
 
 **Report Screenshots**
 
-# Report1
+**Report1**
 
 ![Adactin ss1](Adactin%20screenshots/Adactin%20ss1.PNG)
 
 
+**Report2**
+
+![Adactin ss2](Adactin%20screenshots/Adactin%20ss2.PNG)
 
 
+**Report3**
+
+![Adactin ss3](Adactin%20screenshots/Adactin%20ss3.PNG)
 
 
 **Setup and Execution**
